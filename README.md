@@ -864,6 +864,7 @@ The verbal folklore that prints 40 years of experience in one line:
   - *The All New Print Production Handbook* (David Bann) — the modern print production wall chart in book form.
 - **YouTube**: vendor channels (HP, Roland, Mimaki, EFI), plus operators reviewing real-world setups (wraps, flatbed tutoring, RIP tutorials) — the practical, un-glamorous training ground.
 - **Podcasts**: various industry-weekly conversations (WhatTheyThink's own, PrintingNews's, and label/packaging series), most free.
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Independent sticker printer comparisons with sourced supply costs, a cost-per-sheet calculator and a free 4x7 sticker sheet layout tool.
 
 ---
 
